@@ -1,3 +1,3 @@
 # Entity-Identification
 
-Text extraction using AWS Textract and entity identification using AWS Comprehend.
+AI Hackathon --- Text extraction using AWS Textract and entity identification using AWS Comprehend.
